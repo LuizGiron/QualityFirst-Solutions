@@ -1,0 +1,22 @@
+/* nav
+{
+    margin-top: 0px;
+    padding: 0%;
+}
+nav a
+{
+    color: blueviolet;
+    text-decoration: none;
+    padding: 0px 50px 10px 0;
+    font-size: 25pt;
+    position: relative;
+
+}
+nav a::after
+{
+    content: "";
+    width: 100%;
+    height: 4px;
+    background-color: black;
+} */
+
